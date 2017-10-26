@@ -161,6 +161,8 @@ public class SAIGlobalLogin extends PageObject {
     }
     
     public void UserEntersLoginCredentials() {
+    	
+    	//This function can be extended to ensure guest logins are accepted
         LoginMenu.click();
         LoginEmil.type(User_UserName);
         LoginPassword.type(User_Password);
