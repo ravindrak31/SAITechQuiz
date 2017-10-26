@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="TestLogin" skipped="0" tests="1" time="13.97" timestamp="2017-10-26T13:50:32.490+11:00[Australia/Sydney]"><testcase name="Login into SAI Global website"><error message="Timed out after 2 seconds. Element not available&#10;Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'&#10;System info: host: 'RAVINDRAPC', ip: '192.168.99.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_91'&#10;Driver info: driver.version: unknown&#10;Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'&#10;System info: host: 'RAVINDRAPC', ip: '192.168.99.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_91'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.ElementNotVisibleException">Timed out after 2 seconds. Element not available
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'RAVINDRAPC', ip: '192.168.99.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'RAVINDRAPC', ip: '192.168.99.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_91'
+Driver info: driver.version: unknown</error><system-err>Timed out after 2 seconds. Element not available
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'RAVINDRAPC', ip: '192.168.99.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'RAVINDRAPC', ip: '192.168.99.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_91'
+Driver info: driver.version: unknown&#13;
+Com.SAIGlobal.LoginTest.pages.SAIGlobalLogin.OpenCreateUserPage(SAIGlobalLogin.java:178)&#13;
+Com.SAIGlobal.LoginTest.steps.serenity.EndUserSteps.UserEntersHisDetails(EndUserSteps.java:17)&#13;
+Com.SAIGlobal.LoginTest.steps.DefinitionSteps.whenTheUserEntersDetails(DefinitionSteps.java:22)&#13;
+</system-err></testcase></testsuite>

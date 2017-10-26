@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: Com.SAIGlobal.LoginTest.DefinitionTestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 2, Skipped: 2, Time elapsed: 19.585 sec <<< FAILURE! - in Com.SAIGlobal.LoginTest.DefinitionTestSuite
+When the user enters his details to create login(Scenario: Login into SAI Global website)  Time elapsed: 0.007 sec  <<< ERROR!
+net.serenitybdd.core.exceptions.SerenityManagedException: 
+Timed out after 2 seconds. Element not available
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'RAVINDRAPC', ip: '192.168.99.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+
+Scenario: Login into SAI Global website  Time elapsed: 0.007 sec  <<< ERROR!
+net.serenitybdd.core.exceptions.SerenityManagedException: 
+Timed out after 2 seconds. Element not available
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'RAVINDRAPC', ip: '192.168.99.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+

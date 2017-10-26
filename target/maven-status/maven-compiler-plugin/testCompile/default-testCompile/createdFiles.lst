@@ -1,0 +1,4 @@
+Com\SAIGlobal\LoginTest\steps\serenity\EndUserSteps.class
+Com\SAIGlobal\LoginTest\steps\DefinitionSteps.class
+Com\SAIGlobal\LoginTest\DefinitionTestSuite.class
+Com\SAIGlobal\LoginTest\pages\SAIGlobalLogin.class
